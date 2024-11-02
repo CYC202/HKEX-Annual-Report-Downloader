@@ -13,9 +13,9 @@ This project allows users to download annual reports from the Hong Kong Stock Ex
 ### Features
 1. Download Annual Reports: Retrieve annual reports based on stock code or name.
 2. StockID Management: Resolves the challenge of using stockID for making requests to the HKEX.
-   ![Uploading Snipaste_2024-11-02_22-51-10.png…]()
-4. Multithreading: Utilizes multithreading to accelerate the downloading process.
-5. Word Frequency Analysis: Analyze word frequency in the downloaded reports.
+<img width="695" alt="Snipaste_2024-11-02_22-51-10" src="https://github.com/user-attachments/assets/0d1a27bb-5838-4340-bae5-0854d9a446ef">
+3. Multithreading: Utilizes multithreading to accelerate the downloading process.
+4. Word Frequency Analysis: Analyze word frequency in the downloaded reports.
 
 ### Note
 The code is intended for personal use only and has been encrypted. If you have academic needs or wish to discuss further, feel free to reach out for collaboration and exchange of ideas.
